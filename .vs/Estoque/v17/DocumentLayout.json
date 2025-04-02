@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C4CC28-C083-4F77-A4A9-680853FC4808}|Estoque\\Estoque.csproj|c:\\users\\a l e x a n d r e\\source\\repos\\estoque\\estoque\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5C4CC28-C083-4F77-A4A9-680853FC4808}|Estoque\\Estoque.csproj|solutionrelative:estoque\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C4CC28-C083-4F77-A4A9-680853FC4808}|Estoque\\Estoque.csproj|c:\\users\\a l e x a n d r e\\source\\repos\\estoque\\estoque\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C4CC28-C083-4F77-A4A9-680853FC4808}|Estoque\\Estoque.csproj|solutionrelative:estoque\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Estoque\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Estoque\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T11:17:31.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Estoque\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Estoque\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:16:52.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
