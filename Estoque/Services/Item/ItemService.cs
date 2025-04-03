@@ -1,6 +1,6 @@
 ﻿namespace Estoque.Services.Item
 {
-    public class ItemService
+    public class ItemService : IItemInterface
     {
     }
 }
