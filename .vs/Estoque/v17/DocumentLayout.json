@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F5C4CC28-C083-4F77-A4A9-680853FC4808}|Estoque\\Estoque.csproj|c:\\users\\a l e x a n d r e\\source\\repos\\estoque\\estoque\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C4CC28-C083-4F77-A4A9-680853FC4808}|Estoque\\Estoque.csproj|solutionrelative:estoque\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F5C4CC28-C083-4F77-A4A9-680853FC4808}|Estoque\\Estoque.csproj|c:\\users\\a l e x a n d r e\\source\\repos\\estoque\\estoque\\views\\item\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F5C4CC28-C083-4F77-A4A9-680853FC4808}|Estoque\\Estoque.csproj|solutionrelative:estoque\\views\\item\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5C4CC28-C083-4F77-A4A9-680853FC4808}|Estoque\\Estoque.csproj|c:\\users\\a l e x a n d r e\\source\\repos\\estoque\\estoque\\views\\item\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F5C4CC28-C083-4F77-A4A9-680853FC4808}|Estoque\\Estoque.csproj|solutionrelative:estoque\\views\\item\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F5C4CC28-C083-4F77-A4A9-680853FC4808}|Estoque\\Estoque.csproj|c:\\users\\a l e x a n d r e\\source\\repos\\estoque\\estoque\\services\\item\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C4CC28-C083-4F77-A4A9-680853FC4808}|Estoque\\Estoque.csproj|solutionrelative:estoque\\services\\item\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5C4CC28-C083-4F77-A4A9-680853FC4808}|Estoque\\Estoque.csproj|c:\\users\\a l e x a n d r e\\source\\repos\\estoque\\estoque\\dto\\itemcriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5C4CC28-C083-4F77-A4A9-680853FC4808}|Estoque\\Estoque.csproj|solutionrelative:estoque\\dto\\itemcriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5C4CC28-C083-4F77-A4A9-680853FC4808}|Estoque\\Estoque.csproj|c:\\users\\a l e x a n d r e\\source\\repos\\estoque\\estoque\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5C4CC28-C083-4F77-A4A9-680853FC4808}|Estoque\\Estoque.csproj|solutionrelative:estoque\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5C4CC28-C083-4F77-A4A9-680853FC4808}|Estoque\\Estoque.csproj|c:\\users\\a l e x a n d r e\\source\\repos\\estoque\\estoque\\services\\item\\iiteminterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C4CC28-C083-4F77-A4A9-680853FC4808}|Estoque\\Estoque.csproj|solutionrelative:estoque\\services\\item\\iiteminterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Views\\Item\\Index.cshtml",
-              "RelativeDocumentMoniker": "Estoque\\Views\\Item\\Index.cshtml",
-              "ToolTip": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Views\\Item\\Index.cshtml",
-              "RelativeToolTip": "Estoque\\Views\\Item\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T16:52:42.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ItemCriacaoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\DTO\\ItemCriacaoDTO.cs",
-              "RelativeDocumentMoniker": "Estoque\\DTO\\ItemCriacaoDTO.cs",
-              "ToolTip": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\DTO\\ItemCriacaoDTO.cs",
-              "RelativeToolTip": "Estoque\\DTO\\ItemCriacaoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T16:50:22.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Cadastrar.cshtml",
               "DocumentMoniker": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Views\\Item\\Cadastrar.cshtml",
               "RelativeDocumentMoniker": "Estoque\\Views\\Item\\Cadastrar.cshtml",
               "ToolTip": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Views\\Item\\Cadastrar.cshtml",
               "RelativeToolTip": "Estoque\\Views\\Item\\Cadastrar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T16:21:41.757Z",
+              "WhenOpened": "2025-04-03T17:28:38.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Services\\Item\\ItemService.cs",
+              "RelativeDocumentMoniker": "Estoque\\Services\\Item\\ItemService.cs",
+              "ToolTip": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Services\\Item\\ItemService.cs",
+              "RelativeToolTip": "Estoque\\Services\\Item\\ItemService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:05:00.781Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "IItemInterface.cs",
+              "DocumentMoniker": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Services\\Item\\IItemInterface.cs",
+              "RelativeDocumentMoniker": "Estoque\\Services\\Item\\IItemInterface.cs",
+              "ToolTip": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Services\\Item\\IItemInterface.cs",
+              "RelativeToolTip": "Estoque\\Services\\Item\\IItemInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:04:14.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ItemController.cs",
               "DocumentMoniker": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Controllers\\ItemController.cs",
               "RelativeDocumentMoniker": "Estoque\\Controllers\\ItemController.cs",
               "ToolTip": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Controllers\\ItemController.cs",
               "RelativeToolTip": "Estoque\\Controllers\\ItemController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T16:21:11.466Z"
+              "WhenOpened": "2025-04-03T17:00:38.587Z",
+              "EditorCaption": ""
             }
           ]
         }
