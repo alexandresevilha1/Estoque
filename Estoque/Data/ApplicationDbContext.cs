@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Estoque.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace Estoque.Data
 {
@@ -8,5 +9,6 @@ namespace Estoque.Data
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
         }
+        public DbSet<ItemModel> Itens  { get; set; }
     }
 }
