@@ -9,6 +9,14 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\css\\sketchy.css",
+      "PackagePath": "staticwebassets\\css\\sketchy.css"
+    },
+    {
+      "Id": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\css\\spacelab.css",
+      "PackagePath": "staticwebassets\\css\\spacelab.css"
+    },
+    {
       "Id": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },

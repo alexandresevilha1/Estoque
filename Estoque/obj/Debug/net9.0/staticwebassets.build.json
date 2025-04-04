@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AEmQgtgI8gNDjw6iI7vQDCdWwjWm4kgDdyS3HuzF7Pk=",
+  "Hash": "ix5ZKGbUpwncnq7fNWVw3m1TGyzqXt7nu0RwnGLM7eU=",
   "Source": "Estoque",
   "BasePath": "_content/Estoque",
   "Mode": "Default",
@@ -36,6 +36,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\obj\\Debug\\net9.0\\compressed\\2vtpkyfrg1-ex4sc9fa25.gz",
+      "SourceId": "Estoque",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Estoque",
+      "RelativePath": "css/spacelab#[.{fingerprint=ex4sc9fa25}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\css\\spacelab.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "gxs0eyngbm",
+      "Integrity": "dJgyf6hmAqFl+itM5qPSpUfH8eTJOdQttis+oElLb1o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\css\\spacelab.css"
+    },
+    {
+      "Identity": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\obj\\Debug\\net9.0\\compressed\\3ecmocexjc-92hzwiuqhu.gz",
+      "SourceId": "Estoque",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Estoque",
+      "RelativePath": "css/sketchy#[.{fingerprint=92hzwiuqhu}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\css\\sketchy.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ve6tgj9pyo",
+      "Integrity": "t9Gmm013nWNyd7k2Zv8rIm+YFuaqDc4HojwQOdLuM1c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\css\\sketchy.css"
     },
     {
       "Identity": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\obj\\Debug\\net9.0\\compressed\\3ys0jwaup3-bqjiyaj88i.gz",
@@ -1422,6 +1464,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\css\\sketchy.css",
+      "SourceId": "Estoque",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\",
+      "BasePath": "_content/Estoque",
+      "RelativePath": "css/sketchy#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "92hzwiuqhu",
+      "Integrity": "37bTBpeOfCKYgYuqUr63EG8gRuUYzivCKUlqGLkns+k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\sketchy.css"
+    },
+    {
+      "Identity": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\css\\spacelab.css",
+      "SourceId": "Estoque",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\",
+      "BasePath": "_content/Estoque",
+      "RelativePath": "css/spacelab#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ex4sc9fa25",
+      "Integrity": "DjgyGbonN2mxHSvg8fteLqaoF5+j0rtOU4Y5NImNX6s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\spacelab.css"
     },
     {
       "Identity": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\favicon.ico",
@@ -3127,6 +3211,602 @@
         {
           "Name": "integrity",
           "Value": "sha256-fNKkLSNFLZMVTc2zVrpMXQqOwPU3sU4GWcfEbCR2V1I="
+        }
+      ]
+    },
+    {
+      "Route": "css/sketchy.92hzwiuqhu.css",
+      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\obj\\Debug\\net9.0\\compressed\\3ecmocexjc-92hzwiuqhu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000028370404"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35247"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t9Gmm013nWNyd7k2Zv8rIm+YFuaqDc4HojwQOdLuM1c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 14:19:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"37bTBpeOfCKYgYuqUr63EG8gRuUYzivCKUlqGLkns+k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "92hzwiuqhu"
+        },
+        {
+          "Name": "label",
+          "Value": "css/sketchy.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-37bTBpeOfCKYgYuqUr63EG8gRuUYzivCKUlqGLkns+k="
+        }
+      ]
+    },
+    {
+      "Route": "css/sketchy.92hzwiuqhu.css",
+      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\css\\sketchy.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "287858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"37bTBpeOfCKYgYuqUr63EG8gRuUYzivCKUlqGLkns+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 14:19:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "92hzwiuqhu"
+        },
+        {
+          "Name": "label",
+          "Value": "css/sketchy.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-37bTBpeOfCKYgYuqUr63EG8gRuUYzivCKUlqGLkns+k="
+        }
+      ]
+    },
+    {
+      "Route": "css/sketchy.92hzwiuqhu.css.gz",
+      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\obj\\Debug\\net9.0\\compressed\\3ecmocexjc-92hzwiuqhu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t9Gmm013nWNyd7k2Zv8rIm+YFuaqDc4HojwQOdLuM1c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 14:19:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "92hzwiuqhu"
+        },
+        {
+          "Name": "label",
+          "Value": "css/sketchy.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t9Gmm013nWNyd7k2Zv8rIm+YFuaqDc4HojwQOdLuM1c="
+        }
+      ]
+    },
+    {
+      "Route": "css/sketchy.css",
+      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\obj\\Debug\\net9.0\\compressed\\3ecmocexjc-92hzwiuqhu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000028370404"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35247"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t9Gmm013nWNyd7k2Zv8rIm+YFuaqDc4HojwQOdLuM1c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 14:19:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"37bTBpeOfCKYgYuqUr63EG8gRuUYzivCKUlqGLkns+k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-37bTBpeOfCKYgYuqUr63EG8gRuUYzivCKUlqGLkns+k="
+        }
+      ]
+    },
+    {
+      "Route": "css/sketchy.css",
+      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\css\\sketchy.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "287858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"37bTBpeOfCKYgYuqUr63EG8gRuUYzivCKUlqGLkns+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 14:19:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-37bTBpeOfCKYgYuqUr63EG8gRuUYzivCKUlqGLkns+k="
+        }
+      ]
+    },
+    {
+      "Route": "css/sketchy.css.gz",
+      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\obj\\Debug\\net9.0\\compressed\\3ecmocexjc-92hzwiuqhu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t9Gmm013nWNyd7k2Zv8rIm+YFuaqDc4HojwQOdLuM1c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 14:19:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t9Gmm013nWNyd7k2Zv8rIm+YFuaqDc4HojwQOdLuM1c="
+        }
+      ]
+    },
+    {
+      "Route": "css/spacelab.css",
+      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\obj\\Debug\\net9.0\\compressed\\2vtpkyfrg1-ex4sc9fa25.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000029151969"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34302"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dJgyf6hmAqFl+itM5qPSpUfH8eTJOdQttis+oElLb1o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 14:21:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"DjgyGbonN2mxHSvg8fteLqaoF5+j0rtOU4Y5NImNX6s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DjgyGbonN2mxHSvg8fteLqaoF5+j0rtOU4Y5NImNX6s="
+        }
+      ]
+    },
+    {
+      "Route": "css/spacelab.css",
+      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\css\\spacelab.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DjgyGbonN2mxHSvg8fteLqaoF5+j0rtOU4Y5NImNX6s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 14:21:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DjgyGbonN2mxHSvg8fteLqaoF5+j0rtOU4Y5NImNX6s="
+        }
+      ]
+    },
+    {
+      "Route": "css/spacelab.css.gz",
+      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\obj\\Debug\\net9.0\\compressed\\2vtpkyfrg1-ex4sc9fa25.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dJgyf6hmAqFl+itM5qPSpUfH8eTJOdQttis+oElLb1o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 14:21:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dJgyf6hmAqFl+itM5qPSpUfH8eTJOdQttis+oElLb1o="
+        }
+      ]
+    },
+    {
+      "Route": "css/spacelab.ex4sc9fa25.css",
+      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\obj\\Debug\\net9.0\\compressed\\2vtpkyfrg1-ex4sc9fa25.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000029151969"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34302"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dJgyf6hmAqFl+itM5qPSpUfH8eTJOdQttis+oElLb1o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 14:21:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"DjgyGbonN2mxHSvg8fteLqaoF5+j0rtOU4Y5NImNX6s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ex4sc9fa25"
+        },
+        {
+          "Name": "label",
+          "Value": "css/spacelab.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DjgyGbonN2mxHSvg8fteLqaoF5+j0rtOU4Y5NImNX6s="
+        }
+      ]
+    },
+    {
+      "Route": "css/spacelab.ex4sc9fa25.css",
+      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\css\\spacelab.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "285220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DjgyGbonN2mxHSvg8fteLqaoF5+j0rtOU4Y5NImNX6s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 14:21:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ex4sc9fa25"
+        },
+        {
+          "Name": "label",
+          "Value": "css/spacelab.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DjgyGbonN2mxHSvg8fteLqaoF5+j0rtOU4Y5NImNX6s="
+        }
+      ]
+    },
+    {
+      "Route": "css/spacelab.ex4sc9fa25.css.gz",
+      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\obj\\Debug\\net9.0\\compressed\\2vtpkyfrg1-ex4sc9fa25.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34302"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dJgyf6hmAqFl+itM5qPSpUfH8eTJOdQttis+oElLb1o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 14:21:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ex4sc9fa25"
+        },
+        {
+          "Name": "label",
+          "Value": "css/spacelab.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dJgyf6hmAqFl+itM5qPSpUfH8eTJOdQttis+oElLb1o="
         }
       ]
     },

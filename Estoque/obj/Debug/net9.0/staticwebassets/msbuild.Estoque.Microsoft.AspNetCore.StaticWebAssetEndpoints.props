@@ -12,6 +12,30 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"667"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 02 Apr 2025 11:13:41 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Estoque/css/sketchy.92hzwiuqhu.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\sketchy.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"92hzwiuqhu"},{"Name":"integrity","Value":"sha256-37bTBpeOfCKYgYuqUr63EG8gRuUYzivCKUlqGLkns\u002Bk="},{"Name":"label","Value":"_content/Estoque/css/sketchy.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"287858"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u002237bTBpeOfCKYgYuqUr63EG8gRuUYzivCKUlqGLkns\u002Bk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Apr 2025 14:19:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Estoque/css/sketchy.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\sketchy.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-37bTBpeOfCKYgYuqUr63EG8gRuUYzivCKUlqGLkns\u002Bk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"287858"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u002237bTBpeOfCKYgYuqUr63EG8gRuUYzivCKUlqGLkns\u002Bk=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Apr 2025 14:19:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Estoque/css/spacelab.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\spacelab.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DjgyGbonN2mxHSvg8fteLqaoF5\u002Bj0rtOU4Y5NImNX6s="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"285220"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022DjgyGbonN2mxHSvg8fteLqaoF5\u002Bj0rtOU4Y5NImNX6s=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Apr 2025 14:21:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Estoque/css/spacelab.ex4sc9fa25.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\spacelab.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ex4sc9fa25"},{"Name":"integrity","Value":"sha256-DjgyGbonN2mxHSvg8fteLqaoF5\u002Bj0rtOU4Y5NImNX6s="},{"Name":"label","Value":"_content/Estoque/css/spacelab.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"285220"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022DjgyGbonN2mxHSvg8fteLqaoF5\u002Bj0rtOU4Y5NImNX6s=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Apr 2025 14:21:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Estoque/Estoque.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Estoque.dpncqtwvdf.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

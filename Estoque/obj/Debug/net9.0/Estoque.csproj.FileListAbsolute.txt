@@ -229,3 +229,5 @@ C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\obj\Debug\net9.0\refint\
 C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\obj\Debug\net9.0\Estoque.pdb
 C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\obj\Debug\net9.0\Estoque.genruntimeconfig.cache
 C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\obj\Debug\net9.0\ref\Estoque.dll
+C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\obj\Debug\net9.0\compressed\3ecmocexjc-92hzwiuqhu.gz
+C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\obj\Debug\net9.0\compressed\2vtpkyfrg1-ex4sc9fa25.gz

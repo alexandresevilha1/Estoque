@@ -1,4 +1,6 @@
 C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\wwwroot\css\spacelab.css
+C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\wwwroot\css\sketchy.css
 C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
 C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
@@ -61,6 +63,8 @@ C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\wwwroot\lib\bootstrap\di
 C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
 C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\css\site.css
+wwwroot\css\sketchy.css
+wwwroot\css\spacelab.css
 wwwroot\favicon.ico
 wwwroot\imagens\bleach.png5041780b-3a80-4ce4-b1d8-1b0a6313293a.png
 wwwroot\imagens\codigolimpo.jpg3904a551-1c0f-484a-9057-c22a7fd0bf9b.png
