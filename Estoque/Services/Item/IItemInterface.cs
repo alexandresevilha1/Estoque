@@ -6,5 +6,7 @@ namespace Estoque.Services.Item
     public interface IItemInterface
     {
         Task<ItemModel> CriarItem(ItemCriacaoDTO itemCriacaoDTO, IFormFile imagem);
+        Task<List<ItemModel>> RetornaItens();
+        Task<ItemModel> RetornaItemPeloId();
     }
 }

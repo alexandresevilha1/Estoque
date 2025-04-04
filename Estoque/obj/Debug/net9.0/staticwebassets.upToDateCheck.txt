@@ -62,6 +62,7 @@ C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\wwwroot\lib\bootstrap\di
 C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\imagens\one-piece-volume-106.jpg45d5b3cf-56e2-4617-a8cd-4e5620355893.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

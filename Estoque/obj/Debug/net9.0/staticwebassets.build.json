@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "C3FNksoAaVvNZKE1QCO9Ii7SWx+jBrMu/6MsGnhJGoU=",
+  "Hash": "OmXN0o+M8pXBxRXS8ezVP7SvAGcIUIx0KN3WNIn6dEY=",
   "Source": "Estoque",
   "BasePath": "_content/Estoque",
   "Mode": "Default",
@@ -1443,6 +1443,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\one-piece-volume-106.jpg45d5b3cf-56e2-4617-a8cd-4e5620355893.png",
+      "SourceId": "Estoque",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\",
+      "BasePath": "_content/Estoque",
+      "RelativePath": "imagens/one-piece-volume-106.jpg45d5b3cf-56e2-4617-a8cd-4e5620355893#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r03gciegs5",
+      "Integrity": "tZiKDHWkAMr6O9ku7BFCIk8O7xFlgZfFhno564lW3Bw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\one-piece-volume-106.jpg45d5b3cf-56e2-4617-a8cd-4e5620355893.png"
     },
     {
       "Identity": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\js\\site.js",
@@ -3916,6 +3937,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-jcY0RXFOlcp4VNTCcYQtWVZZBlr+ZY+AOv6/0S5dnF8="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/one-piece-volume-106.jpg45d5b3cf-56e2-4617-a8cd-4e5620355893.png",
+      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\one-piece-volume-106.jpg45d5b3cf-56e2-4617-a8cd-4e5620355893.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187006"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tZiKDHWkAMr6O9ku7BFCIk8O7xFlgZfFhno564lW3Bw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 17:33:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tZiKDHWkAMr6O9ku7BFCIk8O7xFlgZfFhno564lW3Bw="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/one-piece-volume-106.jpg45d5b3cf-56e2-4617-a8cd-4e5620355893.r03gciegs5.png",
+      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\one-piece-volume-106.jpg45d5b3cf-56e2-4617-a8cd-4e5620355893.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "187006"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tZiKDHWkAMr6O9ku7BFCIk8O7xFlgZfFhno564lW3Bw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 17:33:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r03gciegs5"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/one-piece-volume-106.jpg45d5b3cf-56e2-4617-a8cd-4e5620355893.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tZiKDHWkAMr6O9ku7BFCIk8O7xFlgZfFhno564lW3Bw="
         }
       ]
     },

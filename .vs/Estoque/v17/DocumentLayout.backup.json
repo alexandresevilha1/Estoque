@@ -22,34 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ItemService.cs",
-              "DocumentMoniker": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Services\\Item\\ItemService.cs",
-              "RelativeDocumentMoniker": "Estoque\\Services\\Item\\ItemService.cs",
-              "ToolTip": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Services\\Item\\ItemService.cs",
-              "RelativeToolTip": "Estoque\\Services\\Item\\ItemService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA5wC0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:05:00.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IItemInterface.cs",
-              "DocumentMoniker": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Services\\Item\\IItemInterface.cs",
-              "RelativeDocumentMoniker": "Estoque\\Services\\Item\\IItemInterface.cs",
-              "ToolTip": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Services\\Item\\IItemInterface.cs",
-              "RelativeToolTip": "Estoque\\Services\\Item\\IItemInterface.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:04:14.968Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -58,9 +32,35 @@
               "RelativeDocumentMoniker": "Estoque\\Controllers\\ItemController.cs",
               "ToolTip": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Controllers\\ItemController.cs",
               "RelativeToolTip": "Estoque\\Controllers\\ItemController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:00:38.587Z",
+              "WhenOpened": "2025-04-04T01:05:19.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Services\\Item\\ItemService.cs",
+              "RelativeDocumentMoniker": "Estoque\\Services\\Item\\ItemService.cs",
+              "ToolTip": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Services\\Item\\ItemService.cs",
+              "RelativeToolTip": "Estoque\\Services\\Item\\ItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T01:00:24.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IItemInterface.cs",
+              "DocumentMoniker": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Services\\Item\\IItemInterface.cs",
+              "RelativeDocumentMoniker": "Estoque\\Services\\Item\\IItemInterface.cs",
+              "ToolTip": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Services\\Item\\IItemInterface.cs*",
+              "RelativeToolTip": "Estoque\\Services\\Item\\IItemInterface.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T00:58:58.435Z",
               "EditorCaption": ""
             }
           ]

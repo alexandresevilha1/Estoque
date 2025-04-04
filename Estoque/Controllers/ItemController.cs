@@ -1,6 +1,7 @@
 ﻿using Estoque.DTO;
 using Estoque.Services.Item;
 using Microsoft.AspNetCore.Mvc;
+using System.Threading.Tasks;
 
 namespace Estoque.Controllers
 {
@@ -12,9 +13,10 @@ namespace Estoque.Controllers
         {
             _itemInterface = itemInterface;
         }
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            var itens = await _itemInterface.RetornaItens();
+            return View(itens);
         }
         public IActionResult Cadastrar()
         {

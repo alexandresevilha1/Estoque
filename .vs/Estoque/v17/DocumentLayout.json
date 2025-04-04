@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{F5C4CC28-C083-4F77-A4A9-680853FC4808}|Estoque\\Estoque.csproj|solutionrelative:estoque\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5C4CC28-C083-4F77-A4A9-680853FC4808}|Estoque\\Estoque.csproj|c:\\users\\a l e x a n d r e\\source\\repos\\estoque\\estoque\\views\\item\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F5C4CC28-C083-4F77-A4A9-680853FC4808}|Estoque\\Estoque.csproj|solutionrelative:estoque\\views\\item\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F5C4CC28-C083-4F77-A4A9-680853FC4808}|Estoque\\Estoque.csproj|c:\\users\\a l e x a n d r e\\source\\repos\\estoque\\estoque\\services\\item\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5C4CC28-C083-4F77-A4A9-680853FC4808}|Estoque\\Estoque.csproj|solutionrelative:estoque\\services\\item\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,47 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cadastrar.cshtml",
-              "DocumentMoniker": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Views\\Item\\Cadastrar.cshtml",
-              "RelativeDocumentMoniker": "Estoque\\Views\\Item\\Cadastrar.cshtml",
-              "ToolTip": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Views\\Item\\Cadastrar.cshtml",
-              "RelativeToolTip": "Estoque\\Views\\Item\\Cadastrar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T17:28:38.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ItemService.cs",
-              "DocumentMoniker": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Services\\Item\\ItemService.cs",
-              "RelativeDocumentMoniker": "Estoque\\Services\\Item\\ItemService.cs",
-              "ToolTip": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Services\\Item\\ItemService.cs",
-              "RelativeToolTip": "Estoque\\Services\\Item\\ItemService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:05:00.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IItemInterface.cs",
-              "DocumentMoniker": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Services\\Item\\IItemInterface.cs",
-              "RelativeDocumentMoniker": "Estoque\\Services\\Item\\IItemInterface.cs",
-              "ToolTip": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Services\\Item\\IItemInterface.cs",
-              "RelativeToolTip": "Estoque\\Services\\Item\\IItemInterface.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:04:14.968Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -75,9 +32,35 @@
               "RelativeDocumentMoniker": "Estoque\\Controllers\\ItemController.cs",
               "ToolTip": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Controllers\\ItemController.cs",
               "RelativeToolTip": "Estoque\\Controllers\\ItemController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAgwCIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:00:38.587Z",
+              "WhenOpened": "2025-04-04T01:05:19.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Services\\Item\\ItemService.cs",
+              "RelativeDocumentMoniker": "Estoque\\Services\\Item\\ItemService.cs",
+              "ToolTip": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Services\\Item\\ItemService.cs",
+              "RelativeToolTip": "Estoque\\Services\\Item\\ItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T01:00:24.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IItemInterface.cs",
+              "DocumentMoniker": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Services\\Item\\IItemInterface.cs",
+              "RelativeDocumentMoniker": "Estoque\\Services\\Item\\IItemInterface.cs",
+              "ToolTip": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\Services\\Item\\IItemInterface.cs",
+              "RelativeToolTip": "Estoque\\Services\\Item\\IItemInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T00:58:58.435Z",
               "EditorCaption": ""
             }
           ]

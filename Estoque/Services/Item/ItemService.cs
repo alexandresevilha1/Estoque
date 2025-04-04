@@ -1,6 +1,7 @@
 ﻿using Estoque.Data;
 using Estoque.DTO;
 using Estoque.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace Estoque.Services.Item
 {
@@ -49,6 +50,23 @@ namespace Estoque.Services.Item
             {
                 throw new Exception(ex.Message);
             }
+        }
+
+        public async Task<List<ItemModel>> RetornaItens()
+        {
+            try
+            {
+                return await _context.Itens.ToListAsync();
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+        }
+
+        public Task<ItemModel> RetornaItemPeloId()
+        {
+            throw new NotImplementedException();
         }
     }
 }
