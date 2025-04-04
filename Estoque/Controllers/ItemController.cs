@@ -19,7 +19,7 @@ namespace Estoque.Controllers
             var itens = await _itemInterface.RetornaItens();
             return View(itens);
         }
-        public IActionResult Cadastrar()
+        public IActionResult CadastrarItem()
         {
             return View();
         }
@@ -28,8 +28,14 @@ namespace Estoque.Controllers
             var item = await _itemInterface.RetornaItemPeloId(id);
             return View(item);
         }
+        public async Task<IActionResult> RemoverItem(int id)
+        {
+            var item = await _itemInterface.RemoverItem(id);
+            return RedirectToAction("Index");
+        }
+
         [HttpPost]
-        public async Task<IActionResult> Cadastrar(ItemCriacaoDTO itemCriacaoDTO, IFormFile imagem)
+        public async Task<IActionResult> CadastrarItem(ItemCriacaoDTO itemCriacaoDTO, IFormFile imagem)
         {
             if (ModelState.IsValid)
             {

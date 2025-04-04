@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Hqw3PCGJYRF/qWJIK4cU9qK6EetlQainy/tNNfYJ9Qg=",
+  "Hash": "AEmQgtgI8gNDjw6iI7vQDCdWwjWm4kgDdyS3HuzF7Pk=",
   "Source": "Estoque",
   "BasePath": "_content/Estoque",
   "Mode": "Default",
@@ -1466,12 +1466,12 @@
       "OriginalItemSpec": "wwwroot\\imagens\\bleach.png5041780b-3a80-4ce4-b1d8-1b0a6313293a.png"
     },
     {
-      "Identity": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\bleach.pngb0df1898-5bc7-4a18-9816-17596b5e7a6a.png",
+      "Identity": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\codigolimpo.jpg3904a551-1c0f-484a-9057-c22a7fd0bf9b.png",
       "SourceId": "Estoque",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\",
       "BasePath": "_content/Estoque",
-      "RelativePath": "imagens/bleach.pngb0df1898-5bc7-4a18-9816-17596b5e7a6a#[.{fingerprint}]?.png",
+      "RelativePath": "imagens/codigolimpo.jpg3904a551-1c0f-484a-9057-c22a7fd0bf9b#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1480,11 +1480,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "5e6hy9b7ms",
-      "Integrity": "ndBSolSwFQYzEyrsFZ80uOaSgdy/bz5yRHMLtsW3/Hs=",
+      "Fingerprint": "283g5yab9f",
+      "Integrity": "rj6y/wcuttOuNP+ipXac5aZI8sRcEFM+MxPWQ8M2Whs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagens\\bleach.pngb0df1898-5bc7-4a18-9816-17596b5e7a6a.png"
+      "OriginalItemSpec": "wwwroot\\imagens\\codigolimpo.jpg3904a551-1c0f-484a-9057-c22a7fd0bf9b.png"
     },
     {
       "Identity": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\naruto-volume-01.jpg624a59a6-f67c-4625-8554-cc210edd455e.png",
@@ -1527,6 +1527,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagens\\one-piece-volume-106.jpg45d5b3cf-56e2-4617-a8cd-4e5620355893.png"
+    },
+    {
+      "Identity": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\senhordasarmas.jpg54ffe41d-b626-4f7b-ac4b-4cafb0ca93db.png",
+      "SourceId": "Estoque",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\",
+      "BasePath": "_content/Estoque",
+      "RelativePath": "imagens/senhordasarmas.jpg54ffe41d-b626-4f7b-ac4b-4cafb0ca93db#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nj7rxfkmo7",
+      "Integrity": "DYRk3x34pczThUSaJLW+Bg60L+0kpl+VX9xXZCi7PVU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\senhordasarmas.jpg54ffe41d-b626-4f7b-ac4b-4cafb0ca93db.png"
     },
     {
       "Identity": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\js\\site.js",
@@ -4086,8 +4107,8 @@
       ]
     },
     {
-      "Route": "imagens/bleach.pngb0df1898-5bc7-4a18-9816-17596b5e7a6a.5e6hy9b7ms.png",
-      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\bleach.pngb0df1898-5bc7-4a18-9816-17596b5e7a6a.png",
+      "Route": "imagens/codigolimpo.jpg3904a551-1c0f-484a-9057-c22a7fd0bf9b.283g5yab9f.png",
+      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\codigolimpo.jpg3904a551-1c0f-484a-9057-c22a7fd0bf9b.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4096,7 +4117,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "109294"
+          "Value": "47917"
         },
         {
           "Name": "Content-Type",
@@ -4104,11 +4125,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ndBSolSwFQYzEyrsFZ80uOaSgdy/bz5yRHMLtsW3/Hs=\""
+          "Value": "\"rj6y/wcuttOuNP+ipXac5aZI8sRcEFM+MxPWQ8M2Whs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 02:15:08 GMT"
+          "Value": "Fri, 04 Apr 2025 02:37:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4118,21 +4139,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5e6hy9b7ms"
+          "Value": "283g5yab9f"
         },
         {
           "Name": "label",
-          "Value": "imagens/bleach.pngb0df1898-5bc7-4a18-9816-17596b5e7a6a.png"
+          "Value": "imagens/codigolimpo.jpg3904a551-1c0f-484a-9057-c22a7fd0bf9b.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ndBSolSwFQYzEyrsFZ80uOaSgdy/bz5yRHMLtsW3/Hs="
+          "Value": "sha256-rj6y/wcuttOuNP+ipXac5aZI8sRcEFM+MxPWQ8M2Whs="
         }
       ]
     },
     {
-      "Route": "imagens/bleach.pngb0df1898-5bc7-4a18-9816-17596b5e7a6a.png",
-      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\bleach.pngb0df1898-5bc7-4a18-9816-17596b5e7a6a.png",
+      "Route": "imagens/codigolimpo.jpg3904a551-1c0f-484a-9057-c22a7fd0bf9b.png",
+      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\codigolimpo.jpg3904a551-1c0f-484a-9057-c22a7fd0bf9b.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4141,7 +4162,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "109294"
+          "Value": "47917"
         },
         {
           "Name": "Content-Type",
@@ -4149,11 +4170,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ndBSolSwFQYzEyrsFZ80uOaSgdy/bz5yRHMLtsW3/Hs=\""
+          "Value": "\"rj6y/wcuttOuNP+ipXac5aZI8sRcEFM+MxPWQ8M2Whs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 02:15:08 GMT"
+          "Value": "Fri, 04 Apr 2025 02:37:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4163,7 +4184,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ndBSolSwFQYzEyrsFZ80uOaSgdy/bz5yRHMLtsW3/Hs="
+          "Value": "sha256-rj6y/wcuttOuNP+ipXac5aZI8sRcEFM+MxPWQ8M2Whs="
         }
       ]
     },
@@ -4328,6 +4349,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-tZiKDHWkAMr6O9ku7BFCIk8O7xFlgZfFhno564lW3Bw="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/senhordasarmas.jpg54ffe41d-b626-4f7b-ac4b-4cafb0ca93db.nj7rxfkmo7.png",
+      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\senhordasarmas.jpg54ffe41d-b626-4f7b-ac4b-4cafb0ca93db.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DYRk3x34pczThUSaJLW+Bg60L+0kpl+VX9xXZCi7PVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:30:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nj7rxfkmo7"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/senhordasarmas.jpg54ffe41d-b626-4f7b-ac4b-4cafb0ca93db.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DYRk3x34pczThUSaJLW+Bg60L+0kpl+VX9xXZCi7PVU="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/senhordasarmas.jpg54ffe41d-b626-4f7b-ac4b-4cafb0ca93db.png",
+      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\senhordasarmas.jpg54ffe41d-b626-4f7b-ac4b-4cafb0ca93db.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DYRk3x34pczThUSaJLW+Bg60L+0kpl+VX9xXZCi7PVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:30:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DYRk3x34pczThUSaJLW+Bg60L+0kpl+VX9xXZCi7PVU="
         }
       ]
     },

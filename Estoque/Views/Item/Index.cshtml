@@ -2,7 +2,7 @@
 
 <div class="container">
     <div class="text-center mb-5">
-        <a class="btn btn-success" asp-action="Cadastrar" asp-controller="Item">Cadastrar novo item</a>
+        <a class="btn btn-success" asp-action="CadastrarItem" asp-controller="Item">Cadastrar novo item</a>
     </div>
     <table id="Emprestimos" class="table table-light table-hover mt-5">
         <thead>
@@ -37,7 +37,7 @@
                             <td>@item.Valor</td>
                             <td>
                                 <a asp-controller="Item" asp-action="EditarItem" asp-route-id="@item.Id" class="btn btn-warning mx-2"><i class="bi bi-pencil-square mx-2"></i>Editar</a>
-                                <a asp-controller="Item" asp-action="Excluir" asp-route-id="@item.Id" class="btn btn-danger mx-2"><i class="bi bi-trash3-fill mx-2"></i>Excluir</a>
+                                <a asp-controller="Item" asp-action="RemoverItem" asp-route-id="@item.Id" class="btn btn-danger mx-2"><i class="bi bi-trash3-fill mx-2"></i>Remover</a>
                             </td>
                         </tr>
                     }

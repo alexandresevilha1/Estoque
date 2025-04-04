@@ -51,7 +51,6 @@ namespace Estoque.Services.Item
                 throw new Exception(ex.Message);
             }
         }
-
         public async Task<List<ItemModel>> RetornaItens()
         {
             try
@@ -63,7 +62,6 @@ namespace Estoque.Services.Item
                 throw new Exception(ex.Message);
             }
         }
-
         public async Task<ItemModel> RetornaItemPeloId(int id)
         {
             try
@@ -75,7 +73,6 @@ namespace Estoque.Services.Item
                 throw new Exception(ex.Message);
             }
         }
-
         public async Task<ItemModel> EditarItem(ItemModel item, IFormFile? imagem)
         {
             try
@@ -108,6 +105,21 @@ namespace Estoque.Services.Item
                 return item;
             }
             catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+        }
+
+        public async Task<ItemModel> RemoverItem(int id)
+        {
+            try
+            {
+                var item = await _context.Itens.FirstOrDefaultAsync(itemBanco => itemBanco.Id == id);
+                _context.Remove(item);
+                await _context.SaveChangesAsync();
+                return item;
+            }
+            catch(Exception ex)
             {
                 throw new Exception(ex.Message);
             }

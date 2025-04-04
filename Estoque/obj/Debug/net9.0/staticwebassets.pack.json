@@ -17,8 +17,8 @@
       "PackagePath": "staticwebassets\\imagens\\bleach.png5041780b-3a80-4ce4-b1d8-1b0a6313293a.png"
     },
     {
-      "Id": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\bleach.pngb0df1898-5bc7-4a18-9816-17596b5e7a6a.png",
-      "PackagePath": "staticwebassets\\imagens\\bleach.pngb0df1898-5bc7-4a18-9816-17596b5e7a6a.png"
+      "Id": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\codigolimpo.jpg3904a551-1c0f-484a-9057-c22a7fd0bf9b.png",
+      "PackagePath": "staticwebassets\\imagens\\codigolimpo.jpg3904a551-1c0f-484a-9057-c22a7fd0bf9b.png"
     },
     {
       "Id": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\naruto-volume-01.jpg624a59a6-f67c-4625-8554-cc210edd455e.png",
@@ -27,6 +27,10 @@
     {
       "Id": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\one-piece-volume-106.jpg45d5b3cf-56e2-4617-a8cd-4e5620355893.png",
       "PackagePath": "staticwebassets\\imagens\\one-piece-volume-106.jpg45d5b3cf-56e2-4617-a8cd-4e5620355893.png"
+    },
+    {
+      "Id": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\senhordasarmas.jpg54ffe41d-b626-4f7b-ac4b-4cafb0ca93db.png",
+      "PackagePath": "staticwebassets\\imagens\\senhordasarmas.jpg54ffe41d-b626-4f7b-ac4b-4cafb0ca93db.png"
     },
     {
       "Id": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\js\\site.js",

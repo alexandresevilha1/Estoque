@@ -979,8 +979,8 @@
       ]
     },
     {
-      "Route": "imagens/bleach.pngb0df1898-5bc7-4a18-9816-17596b5e7a6a.5e6hy9b7ms.png",
-      "AssetFile": "imagens/bleach.pngb0df1898-5bc7-4a18-9816-17596b5e7a6a.png",
+      "Route": "imagens/codigolimpo.jpg3904a551-1c0f-484a-9057-c22a7fd0bf9b.283g5yab9f.png",
+      "AssetFile": "imagens/codigolimpo.jpg3904a551-1c0f-484a-9057-c22a7fd0bf9b.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -993,7 +993,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "109294"
+          "Value": "47917"
         },
         {
           "Name": "Content-Type",
@@ -1001,31 +1001,31 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ndBSolSwFQYzEyrsFZ80uOaSgdy/bz5yRHMLtsW3/Hs=\""
+          "Value": "\"rj6y/wcuttOuNP+ipXac5aZI8sRcEFM+MxPWQ8M2Whs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 02:15:08 GMT"
+          "Value": "Fri, 04 Apr 2025 02:37:16 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "5e6hy9b7ms"
+          "Value": "283g5yab9f"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ndBSolSwFQYzEyrsFZ80uOaSgdy/bz5yRHMLtsW3/Hs="
+          "Value": "sha256-rj6y/wcuttOuNP+ipXac5aZI8sRcEFM+MxPWQ8M2Whs="
         },
         {
           "Name": "label",
-          "Value": "imagens/bleach.pngb0df1898-5bc7-4a18-9816-17596b5e7a6a.png"
+          "Value": "imagens/codigolimpo.jpg3904a551-1c0f-484a-9057-c22a7fd0bf9b.png"
         }
       ]
     },
     {
-      "Route": "imagens/bleach.pngb0df1898-5bc7-4a18-9816-17596b5e7a6a.png",
-      "AssetFile": "imagens/bleach.pngb0df1898-5bc7-4a18-9816-17596b5e7a6a.png",
+      "Route": "imagens/codigolimpo.jpg3904a551-1c0f-484a-9057-c22a7fd0bf9b.png",
+      "AssetFile": "imagens/codigolimpo.jpg3904a551-1c0f-484a-9057-c22a7fd0bf9b.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1038,7 +1038,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "109294"
+          "Value": "47917"
         },
         {
           "Name": "Content-Type",
@@ -1046,17 +1046,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ndBSolSwFQYzEyrsFZ80uOaSgdy/bz5yRHMLtsW3/Hs=\""
+          "Value": "\"rj6y/wcuttOuNP+ipXac5aZI8sRcEFM+MxPWQ8M2Whs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 02:15:08 GMT"
+          "Value": "Fri, 04 Apr 2025 02:37:16 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ndBSolSwFQYzEyrsFZ80uOaSgdy/bz5yRHMLtsW3/Hs="
+          "Value": "sha256-rj6y/wcuttOuNP+ipXac5aZI8sRcEFM+MxPWQ8M2Whs="
         }
       ]
     },
@@ -1221,6 +1221,88 @@
         {
           "Name": "label",
           "Value": "imagens/one-piece-volume-106.jpg45d5b3cf-56e2-4617-a8cd-4e5620355893.png"
+        }
+      ]
+    },
+    {
+      "Route": "imagens/senhordasarmas.jpg54ffe41d-b626-4f7b-ac4b-4cafb0ca93db.nj7rxfkmo7.png",
+      "AssetFile": "imagens/senhordasarmas.jpg54ffe41d-b626-4f7b-ac4b-4cafb0ca93db.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DYRk3x34pczThUSaJLW+Bg60L+0kpl+VX9xXZCi7PVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:30:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nj7rxfkmo7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DYRk3x34pczThUSaJLW+Bg60L+0kpl+VX9xXZCi7PVU="
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/senhordasarmas.jpg54ffe41d-b626-4f7b-ac4b-4cafb0ca93db.png"
+        }
+      ]
+    },
+    {
+      "Route": "imagens/senhordasarmas.jpg54ffe41d-b626-4f7b-ac4b-4cafb0ca93db.png",
+      "AssetFile": "imagens/senhordasarmas.jpg54ffe41d-b626-4f7b-ac4b-4cafb0ca93db.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DYRk3x34pczThUSaJLW+Bg60L+0kpl+VX9xXZCi7PVU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 13:30:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DYRk3x34pczThUSaJLW+Bg60L+0kpl+VX9xXZCi7PVU="
         }
       ]
     },
