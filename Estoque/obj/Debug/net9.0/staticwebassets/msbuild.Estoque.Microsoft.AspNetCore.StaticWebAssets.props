@@ -54,6 +54,60 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\bleach.png5041780b-3a80-4ce4-b1d8-1b0a6313293a.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Estoque</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Estoque</BasePath>
+      <RelativePath>imagens/bleach.png5041780b-3a80-4ce4-b1d8-1b0a6313293a.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5e6hy9b7ms</Fingerprint>
+      <Integrity>ndBSolSwFQYzEyrsFZ80uOaSgdy/bz5yRHMLtsW3/Hs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\bleach.png5041780b-3a80-4ce4-b1d8-1b0a6313293a.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\bleach.pngb0df1898-5bc7-4a18-9816-17596b5e7a6a.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Estoque</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Estoque</BasePath>
+      <RelativePath>imagens/bleach.pngb0df1898-5bc7-4a18-9816-17596b5e7a6a.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5e6hy9b7ms</Fingerprint>
+      <Integrity>ndBSolSwFQYzEyrsFZ80uOaSgdy/bz5yRHMLtsW3/Hs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\bleach.pngb0df1898-5bc7-4a18-9816-17596b5e7a6a.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\naruto-volume-01.jpg624a59a6-f67c-4625-8554-cc210edd455e.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Estoque</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Estoque</BasePath>
+      <RelativePath>imagens/naruto-volume-01.jpg624a59a6-f67c-4625-8554-cc210edd455e.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>r9d6emmp9z</Fingerprint>
+      <Integrity>UfE1yZsPA4idpU9qKtZxi8C4mmQg0y656PkQh6n4sjQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\naruto-volume-01.jpg624a59a6-f67c-4625-8554-cc210edd455e.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\one-piece-volume-106.jpg45d5b3cf-56e2-4617-a8cd-4e5620355893.png'))">
       <SourceType>Package</SourceType>
       <SourceId>Estoque</SourceId>

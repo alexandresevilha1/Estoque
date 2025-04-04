@@ -62,6 +62,9 @@ C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\wwwroot\lib\bootstrap\di
 C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\imagens\bleach.png5041780b-3a80-4ce4-b1d8-1b0a6313293a.png
+wwwroot\imagens\bleach.pngb0df1898-5bc7-4a18-9816-17596b5e7a6a.png
+wwwroot\imagens\naruto-volume-01.jpg624a59a6-f67c-4625-8554-cc210edd455e.png
 wwwroot\imagens\one-piece-volume-106.jpg45d5b3cf-56e2-4617-a8cd-4e5620355893.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

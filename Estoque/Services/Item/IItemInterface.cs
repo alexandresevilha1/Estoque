@@ -7,6 +7,7 @@ namespace Estoque.Services.Item
     {
         Task<ItemModel> CriarItem(ItemCriacaoDTO itemCriacaoDTO, IFormFile imagem);
         Task<List<ItemModel>> RetornaItens();
-        Task<ItemModel> RetornaItemPeloId();
+        Task<ItemModel> RetornaItemPeloId(int id);
+        Task<ItemModel> EditarItem(ItemModel item, IFormFile? imagem);
     }
 }

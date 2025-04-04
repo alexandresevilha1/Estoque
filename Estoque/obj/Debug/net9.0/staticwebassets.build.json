@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OmXN0o+M8pXBxRXS8ezVP7SvAGcIUIx0KN3WNIn6dEY=",
+  "Hash": "Hqw3PCGJYRF/qWJIK4cU9qK6EetlQainy/tNNfYJ9Qg=",
   "Source": "Estoque",
   "BasePath": "_content/Estoque",
   "Mode": "Default",
@@ -1443,6 +1443,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\bleach.png5041780b-3a80-4ce4-b1d8-1b0a6313293a.png",
+      "SourceId": "Estoque",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\",
+      "BasePath": "_content/Estoque",
+      "RelativePath": "imagens/bleach.png5041780b-3a80-4ce4-b1d8-1b0a6313293a#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5e6hy9b7ms",
+      "Integrity": "ndBSolSwFQYzEyrsFZ80uOaSgdy/bz5yRHMLtsW3/Hs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\bleach.png5041780b-3a80-4ce4-b1d8-1b0a6313293a.png"
+    },
+    {
+      "Identity": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\bleach.pngb0df1898-5bc7-4a18-9816-17596b5e7a6a.png",
+      "SourceId": "Estoque",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\",
+      "BasePath": "_content/Estoque",
+      "RelativePath": "imagens/bleach.pngb0df1898-5bc7-4a18-9816-17596b5e7a6a#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5e6hy9b7ms",
+      "Integrity": "ndBSolSwFQYzEyrsFZ80uOaSgdy/bz5yRHMLtsW3/Hs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\bleach.pngb0df1898-5bc7-4a18-9816-17596b5e7a6a.png"
+    },
+    {
+      "Identity": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\naruto-volume-01.jpg624a59a6-f67c-4625-8554-cc210edd455e.png",
+      "SourceId": "Estoque",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\",
+      "BasePath": "_content/Estoque",
+      "RelativePath": "imagens/naruto-volume-01.jpg624a59a6-f67c-4625-8554-cc210edd455e#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r9d6emmp9z",
+      "Integrity": "UfE1yZsPA4idpU9qKtZxi8C4mmQg0y656PkQh6n4sjQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\naruto-volume-01.jpg624a59a6-f67c-4625-8554-cc210edd455e.png"
     },
     {
       "Identity": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\one-piece-volume-106.jpg45d5b3cf-56e2-4617-a8cd-4e5620355893.png",
@@ -3937,6 +4000,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-jcY0RXFOlcp4VNTCcYQtWVZZBlr+ZY+AOv6/0S5dnF8="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/bleach.png5041780b-3a80-4ce4-b1d8-1b0a6313293a.5e6hy9b7ms.png",
+      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\bleach.png5041780b-3a80-4ce4-b1d8-1b0a6313293a.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ndBSolSwFQYzEyrsFZ80uOaSgdy/bz5yRHMLtsW3/Hs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 02:03:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5e6hy9b7ms"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/bleach.png5041780b-3a80-4ce4-b1d8-1b0a6313293a.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ndBSolSwFQYzEyrsFZ80uOaSgdy/bz5yRHMLtsW3/Hs="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/bleach.png5041780b-3a80-4ce4-b1d8-1b0a6313293a.png",
+      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\bleach.png5041780b-3a80-4ce4-b1d8-1b0a6313293a.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ndBSolSwFQYzEyrsFZ80uOaSgdy/bz5yRHMLtsW3/Hs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 02:03:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ndBSolSwFQYzEyrsFZ80uOaSgdy/bz5yRHMLtsW3/Hs="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/bleach.pngb0df1898-5bc7-4a18-9816-17596b5e7a6a.5e6hy9b7ms.png",
+      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\bleach.pngb0df1898-5bc7-4a18-9816-17596b5e7a6a.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ndBSolSwFQYzEyrsFZ80uOaSgdy/bz5yRHMLtsW3/Hs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 02:15:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5e6hy9b7ms"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/bleach.pngb0df1898-5bc7-4a18-9816-17596b5e7a6a.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ndBSolSwFQYzEyrsFZ80uOaSgdy/bz5yRHMLtsW3/Hs="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/bleach.pngb0df1898-5bc7-4a18-9816-17596b5e7a6a.png",
+      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\bleach.pngb0df1898-5bc7-4a18-9816-17596b5e7a6a.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ndBSolSwFQYzEyrsFZ80uOaSgdy/bz5yRHMLtsW3/Hs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 02:15:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ndBSolSwFQYzEyrsFZ80uOaSgdy/bz5yRHMLtsW3/Hs="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/naruto-volume-01.jpg624a59a6-f67c-4625-8554-cc210edd455e.png",
+      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\naruto-volume-01.jpg624a59a6-f67c-4625-8554-cc210edd455e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85839"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UfE1yZsPA4idpU9qKtZxi8C4mmQg0y656PkQh6n4sjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 02:15:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UfE1yZsPA4idpU9qKtZxi8C4mmQg0y656PkQh6n4sjQ="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/naruto-volume-01.jpg624a59a6-f67c-4625-8554-cc210edd455e.r9d6emmp9z.png",
+      "AssetFile": "C:\\Users\\A l e x a n d r e\\source\\repos\\Estoque\\Estoque\\wwwroot\\imagens\\naruto-volume-01.jpg624a59a6-f67c-4625-8554-cc210edd455e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85839"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UfE1yZsPA4idpU9qKtZxi8C4mmQg0y656PkQh6n4sjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 02:15:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r9d6emmp9z"
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/naruto-volume-01.jpg624a59a6-f67c-4625-8554-cc210edd455e.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UfE1yZsPA4idpU9qKtZxi8C4mmQg0y656PkQh6n4sjQ="
         }
       ]
     },

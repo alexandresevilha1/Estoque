@@ -1,4 +1,5 @@
 ﻿using Estoque.DTO;
+using Estoque.Models;
 using Estoque.Services.Item;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
@@ -22,6 +23,11 @@ namespace Estoque.Controllers
         {
             return View();
         }
+        public async Task<IActionResult> EditarItem(int id)
+        {
+            var item = await _itemInterface.RetornaItemPeloId(id);
+            return View(item);
+        }
         [HttpPost]
         public async Task<IActionResult> Cadastrar(ItemCriacaoDTO itemCriacaoDTO, IFormFile imagem)
         {
@@ -33,6 +39,19 @@ namespace Estoque.Controllers
             else
             {
                 return View(itemCriacaoDTO);
+            }
+        }
+        [HttpPost]
+        public async Task<IActionResult> EditarItem(ItemModel itemModel, IFormFile imagem)
+        {
+            if (ModelState.IsValid)
+            {
+                var item = await _itemInterface.EditarItem(itemModel, imagem);
+                return RedirectToAction("Index");
+            }
+            else
+            {
+                return View(itemModel);
             }
         }
     }

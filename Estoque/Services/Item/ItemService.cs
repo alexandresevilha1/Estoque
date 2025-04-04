@@ -64,9 +64,53 @@ namespace Estoque.Services.Item
             }
         }
 
-        public Task<ItemModel> RetornaItemPeloId()
+        public async Task<ItemModel> RetornaItemPeloId(int id)
         {
-            throw new NotImplementedException();
+            try
+            {
+                return await _context.Itens.FirstOrDefaultAsync(item => item.Id == id);
+            }
+            catch(Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+        }
+
+        public async Task<ItemModel> EditarItem(ItemModel item, IFormFile? imagem)
+        {
+            try
+            {
+                var itemBanco = await _context.Itens.AsNoTracking().FirstOrDefaultAsync(itemBD => itemBD.Id == item.Id);
+                var nomeCaminhoImagem = "";
+                if(imagem != null)
+                {
+                    string caminhoImagemExistente = _sistema + "\\imagens\\" + itemBanco.Imagem;
+                    if (File.Exists(caminhoImagemExistente))
+                    {
+                        File.Delete(caminhoImagemExistente);
+                    }
+                    nomeCaminhoImagem = GeraCaminhoArquivo(imagem);
+                }
+                itemBanco.Nome = item.Nome;
+                itemBanco.Descricao = item.Descricao;
+                itemBanco.Quantidade = item.Quantidade;
+                itemBanco.Valor = item.Valor;
+                if(nomeCaminhoImagem != "")
+                {
+                    itemBanco.Imagem = nomeCaminhoImagem;
+                }
+                else
+                {
+                    itemBanco.Imagem = itemBanco.Imagem;
+                }
+                _context.Update(itemBanco);
+                await _context.SaveChangesAsync();
+                return item;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
         }
     }
 }
