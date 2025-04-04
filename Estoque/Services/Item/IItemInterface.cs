@@ -10,5 +10,6 @@ namespace Estoque.Services.Item
         Task<ItemModel> RetornaItemPeloId(int id);
         Task<ItemModel> EditarItem(ItemModel item, IFormFile? imagem);
         Task<ItemModel> RemoverItem(int id);
+        Task<List<ItemModel>> RetornaItensFiltro(string? pesquisar);
     }
 }

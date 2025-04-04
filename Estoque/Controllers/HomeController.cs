@@ -1,18 +1,32 @@
 using System.Diagnostics;
+using System.Threading.Tasks;
 using Estoque.Models;
+using Estoque.Services.Item;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Estoque.Controllers
 {
     public class HomeController : Controller
     {
-        public HomeController()
+        private readonly IItemInterface _itemInterface;
+        public HomeController(IItemInterface itemInterface)
         {
-            
+            _itemInterface = itemInterface;
         }
-        public IActionResult Index()
+        public async Task<IActionResult> Index(string? pesquisar)
         {
-            return View();
+            if(pesquisar == null)
+            {
+                var itens = await _itemInterface.RetornaItens();
+                return View(itens);
+            }
+            else
+            {
+                var itens = await _itemInterface.RetornaItensFiltro(pesquisar);
+                return View(itens);
+            }
+
+
         }
     }
 }

@@ -124,5 +124,18 @@ namespace Estoque.Services.Item
                 throw new Exception(ex.Message);
             }
         }
+
+        public async Task<List<ItemModel>> RetornaItensFiltro(string? pesquisar)
+        {
+            try
+            {
+                var itens = await _context.Itens.Where(itensBanco => itensBanco.Nome.Contains(pesquisar)).ToListAsync();
+                return itens;
+            }
+            catch(Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+        }
     }
 }

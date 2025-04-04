@@ -33,7 +33,11 @@ namespace Estoque.Controllers
             var item = await _itemInterface.RemoverItem(id);
             return RedirectToAction("Index");
         }
-
+        public async Task<IActionResult> DetalhesItem(int id)
+        {
+            var item = await _itemInterface.RetornaItemPeloId(id);
+            return View(item);
+        }
         [HttpPost]
         public async Task<IActionResult> CadastrarItem(ItemCriacaoDTO itemCriacaoDTO, IFormFile imagem)
         {
