@@ -1,5 +1,4 @@
 ﻿@model ItemModel
-div class="container mt-5">
 <form method="post" asp-action="EditarItem" asp-controller="Item" enctype="multipart/form-data">
     <h2>Cadastro de Item</h2>
     <div class="text-center">
@@ -32,7 +31,7 @@ div class="container mt-5">
         <span class="text-danger" asp-validation-for="Valor"></span>
     </div>
     <div class="btn-box d-flex mt-3">
-        <button type="submit" class="btn btn-success w-50 mx-1"><i class="bi bi-plus-circle"></i> Modificar</button>
+        <button type="submit" class="btn btn-warning w-50 mx-1"><i class="bi bi-pencil-square mx-2"></i>Modificar</button>
         <a type="submit" class="btn btn-info w-50" asp-controller="Item" asp-action="Index"><i class="bi bi-arrow-left-circle"></i> Voltar</a>
     </div>
 </form>
