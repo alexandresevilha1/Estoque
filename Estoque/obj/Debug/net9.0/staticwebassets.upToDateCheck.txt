@@ -66,8 +66,10 @@ wwwroot\css\site.css
 wwwroot\css\sketchy.css
 wwwroot\css\spacelab.css
 wwwroot\favicon.ico
+wwwroot\imagens\493568.jpgbef6aa40-db86-4c01-9418-bc122733a74a.png
 wwwroot\imagens\bleach.png5041780b-3a80-4ce4-b1d8-1b0a6313293a.png
 wwwroot\imagens\codigolimpo.jpg3904a551-1c0f-484a-9057-c22a7fd0bf9b.png
+wwwroot\imagens\codigolimpo.jpgbf139e86-2d37-443e-8ee9-17e62c8cf68a.png
 wwwroot\imagens\naruto-volume-01.jpg624a59a6-f67c-4625-8554-cc210edd455e.png
 wwwroot\imagens\one-piece-volume-106.jpg45d5b3cf-56e2-4617-a8cd-4e5620355893.png
 wwwroot\imagens\senhordasarmas.jpg54ffe41d-b626-4f7b-ac4b-4cafb0ca93db.png

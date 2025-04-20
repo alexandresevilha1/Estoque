@@ -1,5 +1,6 @@
 ﻿using Estoque.DTO;
 using Estoque.Models;
+using System.Data;
 
 namespace Estoque.Services.Item
 {
@@ -11,5 +12,6 @@ namespace Estoque.Services.Item
         Task<ItemModel> EditarItem(ItemModel item, IFormFile? imagem);
         Task<ItemModel> RemoverItem(int id);
         Task<List<ItemModel>> RetornaItensFiltro(string? pesquisar);
+        Task<DataTable> RetornaDados();
     }
 }

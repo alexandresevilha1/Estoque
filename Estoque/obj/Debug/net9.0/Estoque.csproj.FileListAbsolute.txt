@@ -231,3 +231,11 @@ C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\obj\Debug\net9.0\Estoque
 C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\obj\Debug\net9.0\ref\Estoque.dll
 C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\obj\Debug\net9.0\compressed\3ecmocexjc-92hzwiuqhu.gz
 C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\obj\Debug\net9.0\compressed\2vtpkyfrg1-ex4sc9fa25.gz
+C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\bin\Debug\net9.0\ClosedXML.dll
+C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\bin\Debug\net9.0\ClosedXML.Parser.dll
+C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\bin\Debug\net9.0\DocumentFormat.OpenXml.dll
+C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\bin\Debug\net9.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\bin\Debug\net9.0\ExcelNumberFormat.dll
+C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\bin\Debug\net9.0\RBush.dll
+C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\bin\Debug\net9.0\SixLabors.Fonts.dll
+C:\Users\A l e x a n d r e\source\repos\Estoque\Estoque\bin\Debug\net9.0\System.IO.Packaging.dll

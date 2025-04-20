@@ -2,6 +2,7 @@
 using Estoque.DTO;
 using Estoque.Models;
 using Microsoft.EntityFrameworkCore;
+using System.Data;
 
 namespace Estoque.Services.Item
 {
@@ -136,6 +137,26 @@ namespace Estoque.Services.Item
             {
                 throw new Exception(ex.Message);
             }
+        }
+
+        public async Task<DataTable> RetornaDados()
+        {
+            DataTable dataTable = new DataTable();
+            dataTable.TableName = "Listagem de Estoque";
+            dataTable.Columns.Add("Nome", typeof(string));
+            dataTable.Columns.Add("Imagem", typeof(string));
+            dataTable.Columns.Add("Descrição", typeof(string));
+            dataTable.Columns.Add("Quantidade", typeof(int));
+            dataTable.Columns.Add("Valor", typeof(double));
+            var dados = await _context.Itens.ToListAsync();
+            if (dados.Count > 0)
+            {
+                dados.ForEach(itens =>
+                {
+                    dataTable.Rows.Add(itens.Nome, itens.Imagem, itens.Descricao, itens.Quantidade, itens.Valor);
+                });
+            }
+            return dataTable;
         }
     }
 }

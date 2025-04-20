@@ -90,6 +90,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\493568.jpgbef6aa40-db86-4c01-9418-bc122733a74a.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Estoque</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Estoque</BasePath>
+      <RelativePath>imagens/493568.jpgbef6aa40-db86-4c01-9418-bc122733a74a.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>7tlfxplhax</Fingerprint>
+      <Integrity>1Y7gS0beUvHzM3yJmCEzx1dFmjSSO0LfEPDAkylzUwk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\493568.jpgbef6aa40-db86-4c01-9418-bc122733a74a.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\bleach.png5041780b-3a80-4ce4-b1d8-1b0a6313293a.png'))">
       <SourceType>Package</SourceType>
       <SourceId>Estoque</SourceId>
@@ -125,6 +143,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\codigolimpo.jpg3904a551-1c0f-484a-9057-c22a7fd0bf9b.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\codigolimpo.jpgbf139e86-2d37-443e-8ee9-17e62c8cf68a.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Estoque</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Estoque</BasePath>
+      <RelativePath>imagens/codigolimpo.jpgbf139e86-2d37-443e-8ee9-17e62c8cf68a.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>283g5yab9f</Fingerprint>
+      <Integrity>rj6y/wcuttOuNP+ipXac5aZI8sRcEFM+MxPWQ8M2Whs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\codigolimpo.jpgbf139e86-2d37-443e-8ee9-17e62c8cf68a.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\imagens\naruto-volume-01.jpg624a59a6-f67c-4625-8554-cc210edd455e.png'))">
       <SourceType>Package</SourceType>

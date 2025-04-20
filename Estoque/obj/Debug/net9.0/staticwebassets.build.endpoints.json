@@ -1493,6 +1493,88 @@
       ]
     },
     {
+      "Route": "imagens/493568.jpgbef6aa40-db86-4c01-9418-bc122733a74a.7tlfxplhax.png",
+      "AssetFile": "imagens/493568.jpgbef6aa40-db86-4c01-9418-bc122733a74a.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52196"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1Y7gS0beUvHzM3yJmCEzx1dFmjSSO0LfEPDAkylzUwk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 22:29:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7tlfxplhax"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1Y7gS0beUvHzM3yJmCEzx1dFmjSSO0LfEPDAkylzUwk="
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/493568.jpgbef6aa40-db86-4c01-9418-bc122733a74a.png"
+        }
+      ]
+    },
+    {
+      "Route": "imagens/493568.jpgbef6aa40-db86-4c01-9418-bc122733a74a.png",
+      "AssetFile": "imagens/493568.jpgbef6aa40-db86-4c01-9418-bc122733a74a.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52196"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1Y7gS0beUvHzM3yJmCEzx1dFmjSSO0LfEPDAkylzUwk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 22:29:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1Y7gS0beUvHzM3yJmCEzx1dFmjSSO0LfEPDAkylzUwk="
+        }
+      ]
+    },
+    {
       "Route": "imagens/bleach.png5041780b-3a80-4ce4-b1d8-1b0a6313293a.5e6hy9b7ms.png",
       "AssetFile": "imagens/bleach.png5041780b-3a80-4ce4-b1d8-1b0a6313293a.png",
       "Selectors": [],
@@ -1647,6 +1729,88 @@
         {
           "Name": "Last-Modified",
           "Value": "Fri, 04 Apr 2025 02:37:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rj6y/wcuttOuNP+ipXac5aZI8sRcEFM+MxPWQ8M2Whs="
+        }
+      ]
+    },
+    {
+      "Route": "imagens/codigolimpo.jpgbf139e86-2d37-443e-8ee9-17e62c8cf68a.283g5yab9f.png",
+      "AssetFile": "imagens/codigolimpo.jpgbf139e86-2d37-443e-8ee9-17e62c8cf68a.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47917"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rj6y/wcuttOuNP+ipXac5aZI8sRcEFM+MxPWQ8M2Whs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 22:30:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "283g5yab9f"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rj6y/wcuttOuNP+ipXac5aZI8sRcEFM+MxPWQ8M2Whs="
+        },
+        {
+          "Name": "label",
+          "Value": "imagens/codigolimpo.jpgbf139e86-2d37-443e-8ee9-17e62c8cf68a.png"
+        }
+      ]
+    },
+    {
+      "Route": "imagens/codigolimpo.jpgbf139e86-2d37-443e-8ee9-17e62c8cf68a.png",
+      "AssetFile": "imagens/codigolimpo.jpgbf139e86-2d37-443e-8ee9-17e62c8cf68a.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47917"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rj6y/wcuttOuNP+ipXac5aZI8sRcEFM+MxPWQ8M2Whs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 22:30:07 GMT"
         }
       ],
       "EndpointProperties": [
